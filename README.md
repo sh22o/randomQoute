@@ -1,1 +1,2 @@
-# randomQoute
+# randomQoute 
+by java script 
